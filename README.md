@@ -1,7 +1,8 @@
 ### Hi , I am Simranjeet Singh 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=simranxx9.simranxx9)
-Here are some ideas to get you started:
+![](https://visitor-badge.laobi.icu/badge?page_id=simranxx9.simranxx9)[![Github](https://img.shields.io/github/followers/simranxx9?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+--
+## I am enthuasiatic to learn new Techs.
 
 - 🔭 I’m currently working on : DSALGO
 - 🌱 I’m currently learning : Machine Learning
