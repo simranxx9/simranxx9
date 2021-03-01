@@ -1,6 +1,6 @@
 ### Hi , I am Simranjeet Singh 👋
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=simranxx9.simranxx9)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : DSALGO
