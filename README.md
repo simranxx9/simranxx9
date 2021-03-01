@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 
 ### ⚡ My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simranxx9&show_icons=true&theme=tokyonight)
-::after
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=simranxx9&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
 
