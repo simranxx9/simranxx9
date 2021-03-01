@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : DSALGO
 - 🌱 I’m currently learning : Machine Learning
 - 💬 Ask me about : React Js
-- ![image](https://user-images.githubusercontent.com/55270335/109523503-708f6300-7ad5-11eb-90a6-d95e16f993c4.png =10x10)
+- ![image](https://user-images.githubusercontent.com/55270335/109523503-708f6300-7ad5-11eb-90a6-d95e16f993c4.png){:height="20%" width="10%"}
 Education : BE in Ramaiah Institute of Technology
 
 ### Connect With Me
