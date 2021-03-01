@@ -1,15 +1,15 @@
-### Hi , I am Simranjeet Singh 👋
+## Hi , I am Simranjeet Singh 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=simranxx9.simranxx9)[![Github](https://img.shields.io/github/followers/simranxx9?label=Follow&style=social)](https://github.com/CharalambosIoannou)
---
-## I am enthuasiatic to learn new Techs.
+
+### I am enthuasiatic to learn new Techs.
 
 - 🔭 I’m currently working on : DSALGO
 - 🌱 I’m currently learning : Machine Learning
 - 💬 Ask me about : React Js
 - 📙 Education : BE in Ramaiah Institute of Technology
 ---
-## ✉️ Find me on:
+### ✉️ Find me on:
 
 
 <p align="center">
@@ -22,7 +22,7 @@
   
   
   
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
