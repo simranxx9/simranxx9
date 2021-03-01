@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <br />
 
 
-### Github Stats
+### ⚡ My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simranxx9&show_icons=true&theme=tokyonight)
+::after
 
 
